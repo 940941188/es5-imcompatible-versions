@@ -302,6 +302,12 @@
           "version": "^3.3.2",
           "reason": "https://github.com/formatjs/react-intl/blob/v3.3.2/src/utils.ts#L36"
         }
+      },
+      "@bundled-es-modules/pdfjs-dist": {
+        "v2.1.266-rc": {
+          "version": "v2.1.266-rc",
+          "reason": "https://github.com/bundled-es-modules/pdfjs-dist/blob/v2.1.266-rc/build/pdf.js#L2263"
+        }
       }
     }
   }
